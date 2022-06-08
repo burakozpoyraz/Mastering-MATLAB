@@ -4,7 +4,7 @@
 ![Forks Badge](https://img.shields.io/github/forks/burakozpoyraz/Mastering-MATLAB)
 ![Stars Badge](https://img.shields.io/github/stars/burakozpoyraz/Mastering-MATLAB)
 <p align="center"><img src="https://user-images.githubusercontent.com/18036489/172574503-bc4cf0e2-f3f2-4e3c-858f-ac59439f4142.jpg" width="1400"</p>
-<p align="center"><a href="https://www.instagram.com/masteringmatlab/"><img src="https://user-images.githubusercontent.com/18036489/172635381-f6dc5d89-794e-4264-8e0a-5fdbd9045150.jpg" width="600"/></a></p>
+<p align="center"><a href="https://www.instagram.com/masteringmatlab/"><img src="https://user-images.githubusercontent.com/18036489/172636741-28b1ce1a-b1c2-453f-aeca-75ba083506d2.png" width="600"/></a></p>
 
 <h3 align="center">🔢 Ready to master MATLAB? 🔢</h3>
 
