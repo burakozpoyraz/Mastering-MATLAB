@@ -1,7 +1,18 @@
 <h1 align="center">Mastering MATLAB</h1>
 
-![MatlabMasteringLogo](https://user-images.githubusercontent.com/18036489/172574503-bc4cf0e2-f3f2-4e3c-858f-ac59439f4142.jpg)
 ![Issues Badge](https://img.shields.io/github/issues/burakozpoyraz/Mastering-MATLAB)
 ![Forks Badge](https://img.shields.io/github/forks/burakozpoyraz/Mastering-MATLAB)
 ![Stars Badge](https://img.shields.io/github/stars/burakozpoyraz/Mastering-MATLAB)
+<p align="center"><img src="https://user-images.githubusercontent.com/18036489/172574503-bc4cf0e2-f3f2-4e3c-858f-ac59439f4142.jpg" width="1400"</p>
+<p align="center"><a href="https://www.instagram.com/masteringmatlab/"><img src="https://user-images.githubusercontent.com/18036489/172586851-39698cb5-4c92-4b23-9743-a1df6f385862.png" width="500"/></a></p>
 
+<h3 align="center">🔢 Ready to master MATLAB? 🔢</h3>
+
+➡️ Then you have come to the right place! In this repository, you will find:
+
+    - 📜 Example MATLAB scripts and functions
+    - ✨ MATLAB project ideas
+    - 🔜 Technical details of the upcoming MATLAB versions
+    - 🔗 Connections between MATLAB and other software languages
+    
+<h3 align="center">🔶 Stay Tuned, Stay with MATLAB 🔶</h3>
