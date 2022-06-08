@@ -1,4 +1,4 @@
-<h1 align="center">Mastering MATLAB</h1>
+<h1 align="center">MASTERING MATLAB</h1>
 
 ![Issues Badge](https://img.shields.io/github/issues/burakozpoyraz/Mastering-MATLAB)
 ![Forks Badge](https://img.shields.io/github/forks/burakozpoyraz/Mastering-MATLAB)
