@@ -10,9 +10,9 @@
 
 ➡️ Then you have come to the right place! In this repository, you will find:
 
-    - 📜 Example MATLAB scripts and functions
-    - ✨ MATLAB project ideas
-    - 🔜 Technical details of the upcoming MATLAB versions
-    - 🔗 Connections between MATLAB and other software languages
+- 📜 Example MATLAB scripts and functions
+- ✨ MATLAB project ideas
+- 🔜 Technical details of the upcoming MATLAB versions
+- 🔗 Connections between MATLAB and other software languages
     
 <h3 align="center">🔶 Stay Tuned, Stay with MATLAB 🔶</h3>
