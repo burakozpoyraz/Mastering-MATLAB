@@ -1,6 +1,3 @@
-clear all;
-clc;
-
 %% USAGE-1
 v = 7;
 n = 3;
